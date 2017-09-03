@@ -1,0 +1,28 @@
+.slide {
+    background-color: #393;
+    color: #fff;
+}
+
+.center {
+    text-align: center;
+}
+
+.code-club-logo {
+    width: 30%;
+    margin-left: 35%;
+    border: 4px solid #fff;
+    border-radius: 50%;
+}
+
+.slide-img {
+    width: 100%;
+    height: 80%;
+    margin-top: 1%;
+}
+
+.logo-small-right {
+    margin-top: -50px;
+    width: 150px;
+    height: 150px;
+    float: right;
+}
